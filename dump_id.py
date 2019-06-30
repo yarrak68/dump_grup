@@ -16,7 +16,7 @@ def mengetik(s):
 mengetik('Selamat Datang Di Tools Grab ID Grup Facebook Gunakan Dengan Bijak')
 mengetik('Kunjungi Tutorial Termux lainnya cek ngondok.blogspot.com')
 os.system('clear')
- p
+
 print ('[Dump Id Grup Facebook]')
 print ('[Athor: Zi3 Solo Cyber]')
 print ('[Contact :085211029771]')
